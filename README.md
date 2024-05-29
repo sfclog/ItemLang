@@ -14,6 +14,7 @@
 	    <groupId>com.github.sfclog</groupId>
 	    <artifactId>ItemLang</artifactId>
 	    <version>a19362a591</version>
+            <scope>provided</scope>
 	</dependency>
 </dependencies>
 ```
