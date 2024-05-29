@@ -10,11 +10,11 @@
 </repositories>
 
 <dependencies>
-    <dependency>
-        <groupId>me.sfclog.itemlang</groupId>
-        <artifactId>Main</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </dependency>
+	<dependency>
+	    <groupId>com.github.sfclog</groupId>
+	    <artifactId>ItemLang</artifactId>
+	    <version>a19362a591</version>
+	</dependency>
 </dependencies>
 ```
 
