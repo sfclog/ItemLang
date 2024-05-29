@@ -1,6 +1,9 @@
 ## Cách sử dụng
 
-**Với Maven:**<br>
+**Tải Plugin Về:**<br>
+
+
+**Thêm Vào Maven:**<br>
 ```maven
 <repositories>
     <repository>
